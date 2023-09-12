@@ -1,0 +1,13 @@
+/* body {
+  background-color: rgb(63, 130, 206);
+} */
+
+
+
+
+body {
+    background-image: url("../images/red_moon.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  
